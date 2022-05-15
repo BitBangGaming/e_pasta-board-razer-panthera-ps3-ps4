@@ -70,84 +70,92 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for player_leds_pcb_rev_b\Design Rule Check - pasta_razer_panthera_ps3_ps4_rev_a.html
+DocumentPath=Outjob Outputs - OSH GERBERS\Bill of Materials-pasta_razer_panthera_ps3_ps4.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a-RoundHoles.TXT
+DocumentPath=Project Outputs for player_leds_pcb_rev_b\Design Rule Check - pasta_razer_panthera_ps3_ps4.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a-SlotHoles.TXT
+DocumentPath=Project Outputs for player_leds_pcb_rev_b\Design Rule Check - pasta_razer_panthera_ps3_ps4_rev_a.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.DRR
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.EXTREP
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBL
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBO
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBP
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBS
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GD1
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GM1
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTL
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTO
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTP
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTS
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.LDP
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.REP
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Outjob Outputs - OSH GERBERS\pasta_razer_panthera_ps3_ps4_rev_a.RUL
 DItemRevisionGUID=
 
