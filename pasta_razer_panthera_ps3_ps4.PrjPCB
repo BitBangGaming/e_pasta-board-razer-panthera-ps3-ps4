@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 OutputPath=Project Outputs for player_leds_pcb_rev_b
 
 [Document1]
-DocumentPath=pasta_razer_panthera_ps3_ps4_rev_a.OutJob
+DocumentPath=pasta_razer_panthera_ps3_ps4.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -48,7 +48,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=pasta_razer_panthera_ps3_ps4_rev_a.pcbdoc
+DocumentPath=pasta_razer_panthera_ps3_ps4.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,17 +64,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=pasta_razer_panthera_ps3_ps4_rev_a.SchDoc
+DocumentPath=pasta_razer_panthera_ps3_ps4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
