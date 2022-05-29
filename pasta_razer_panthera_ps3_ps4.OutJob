@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=pasta_razer_panthera_ps3_ps4_rev_a.OutJob
+Name=pasta_razer_panthera_ps3_ps4.OutJob
 Description=
 TargetOutputMedium=Outjob Outputs - OSH PARK GERBERS
 VariantName=[No Variations]
@@ -72,7 +72,7 @@ OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=0
 OutputEnabled2_OutputMedium6=0
 OutputEnabled2_OutputMedium7=0
-OutputEnabled2_OutputMedium8=2
+OutputEnabled2_OutputMedium8=1
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=BoardEdgeRoutToolDia=620000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=KeepLeadingAndTrailingZeroes
@@ -243,7 +243,7 @@ OutputEnabled10_OutputMedium4=0
 OutputEnabled10_OutputMedium5=0
 OutputEnabled10_OutputMedium6=0
 OutputEnabled10_OutputMedium7=0
-OutputEnabled10_OutputMedium8=1
+OutputEnabled10_OutputMedium8=2
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=350000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=1410055390|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False
@@ -378,7 +378,7 @@ MarkPins7=1
 MarkNetLabels7=1
 MarkPortsId7=1
 ShowComponentParameters7=1
-OutputFilePath8=C:\Users\jcorleto\Documents\Altium Docs\Antagonist-V2\electrical\Rev A\Outjob Outputs - OSH GERBERS\
+OutputFilePath8=C:\github\electrical\e_pasta-board-razer-panthera-ps3-ps4\Outjob Outputs - OSH GERBERS\
 ReleaseManaged8=0
 OutputBasePath8=Outjob Outputs - OSH GERBERS\
 OutputPathMedia8=
@@ -418,7 +418,7 @@ OpenIPCOutput6=0
 EnableReload6=0
 RelativeOutputPath7=C:\Users\jcorleto\Documents\Altium Docs\PASTA-Board-for-Razer-Panthera-PS3_PS4\electrical\Rev A\.\Outjob Outputs - 3D PCB\ledPDF.PDF
 OpenOutputs7=1
-RelativeOutputPath8=C:\Users\jcorleto\Documents\Altium Docs\Antagonist-V2\electrical\Rev A\Outjob Outputs - OSH GERBERS\
+RelativeOutputPath8=C:\github\electrical\e_pasta-board-razer-panthera-ps3-ps4\Outjob Outputs - OSH GERBERS\
 OpenOutputs8=1
 AddToProject8=1
 TimestampFolder8=0
